@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dziyana Kantsevich
 ==========================================================================================================================================
 
@@ -25,7 +26,7 @@ Frontend Developer and UI/UX Designer
 Creative and detail-oriented UI/UX Designer and Front-End Developer with 3+ years of experience designing and building user-centric digital experiences. Skilled in wireframing, prototyping, interaction design, and front-end development. Strong expertise in Figma, HTML, CSS, JavaScript.
 
 * 🌍  I'm based in Belarus
-* 🖥️  See my portfolio at [Portfollio](http://https://dinak0103.github.io/dev/index.html)
+* 🖥️  See my portfolio at [Portfollio](http://dinak0103.github.io/dev/index.html)
 * ✉️  You can contact me at [dziyanakantsevich@gmail.com](mailto:dziyanakantsevich@gmail.com)
 * 🧠  I'm learning Advanced JavaScript and React
 * 🤝  I'm open to collaborating on Projects
