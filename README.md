@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dziyana Kantsevich
 ==========================================================================================================================================
 
-Frontend Engineer with strong UX background
+Software Developer with strong UX background
 -------------------------------------
 
 Creative and detail-oriented UI/UX Designer and Front-End Developer with 3+ years of experience designing and building user-centric digital experiences. Skilled in wireframing, prototyping, interaction design, and front-end development. Strong expertise in Figma, HTML, CSS, JavaScript.
