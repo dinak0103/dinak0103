@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer with strong UX background
 -------------------------------------
 
-Creative and detail-oriented UI/UX Designer and Front-End Developer with 3+ years of experience designing and building user-centric digital experiences. Skilled in wireframing, prototyping, interaction design, and front-end development. Strong expertise in Figma, HTML, CSS, JavaScript.
+Software Developer with a strong UX background and 4+ years of experience designing and building user-centered digital products. I combine design thinking with development to create intuitive, visually engaging, and high-performing interfaces. Strong expertise in Figma, HTML, CSS, JavaScript.
 
 * 🌍  I'm based in Belarus
 * 🖥️  See my portfolio at [Portfollio](http://dinak0103.github.io/dev/index.html)
