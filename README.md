@@ -6,10 +6,8 @@ Software Developer with strong UX background
 
 Software Developer with a strong UX background and 4+ years of experience designing and building user-centered digital products. I combine design thinking with development to create intuitive, visually engaging, and high-performing interfaces. Strong expertise in Figma, HTML, CSS, JavaScript.
 
-* 🌍  I'm based in Belarus
 * 🖥️  See my portfolio at [Portfollio](https://dinak.dev/)
 * ✉️  You can contact me at [dziyanakantsevich@gmail.com](mailto:dziyanakantsevich@gmail.com)
-* 🧠  I'm learning Advanced JavaScript and React
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
